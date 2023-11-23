@@ -1,0 +1,124 @@
+body {
+    background-color: rgb(0, 95, 219);
+}
+
+.cor-g {
+    background-color: green;
+    width: 300px;
+    height: 27px;
+    padding: 10px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.cor-r {
+    background-color: red;
+    width: 300px;
+    height: 27px;
+    padding: 10px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.calculo-baixo {
+    width: 30%;
+    height: 100%;
+    background-color: red;
+    padding: 10px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.calculo-medio {
+    width: 30%;
+    height: 100%;
+    background-color: green;
+    padding: 10px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.calculo-acima {
+    width: 30%;
+    height: 100%;
+    background-color: orange;
+    padding: 10px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.calculo-grau1 {
+    width: 30%;
+    height: 100%;
+    background-color: red;
+    padding: 10px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.calculo-grau2 {
+    width: 30%;
+    height: 100%;
+    background-color: red;
+    padding: 10px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.calculo-grau3 {
+    width: 30%;
+    height: 100%;
+    background-color: red;
+    padding: 10px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 250px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 10px 5px 10px black;
+}
+.container h1 {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+
+.container label {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container input {
+    width: 300px;
+    height: 25px;
+    text-align: center;
+    font-size: 18px;
+    outline: none;
+}
+
+.btn {
+    cursor: pointer;
+}
