@@ -116,6 +116,9 @@ body {
     text-align: center;
     font-size: 18px;
     outline: none;
+    background: none;
+    border: 1px solid black;
+    border-radius: 10px;
 }
 
 .btn {
@@ -147,4 +150,19 @@ body {
 
 .clear {
     clear: both;
+}
+
+.btn {
+    background: none;
+    border: 1px solid black;
+    width: 250px;
+    height: 30px;
+    border-radius: 15px;
+    font-size: 20px;
+}
+
+.btn:hover {
+    background-color: black;
+    color: whitesmoke;
+    box-shadow: 5px 5px 10px black;
 }
