@@ -127,8 +127,8 @@ body {
 
 .tabela {
     font-family: Arial, Helvetica, sans-serif;
-    width: 40%;
-    float: left;
+    margin: 0 auto;
+    width: 38%;
 }
 
 .tabela p {
