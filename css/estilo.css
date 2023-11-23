@@ -93,11 +93,10 @@ body {
 .container {
     width: 50%;
     margin: 0 auto;
-    margin-top: 250px;
+    margin-top: 150px;
     background-color: whitesmoke;
     border-radius: 15px;
     padding: 20px;
-    text-align: center;
     box-shadow: 10px 5px 10px black;
 }
 .container h1 {
@@ -121,4 +120,31 @@ body {
 
 .btn {
     cursor: pointer;
+}
+
+.tabela {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 40%;
+    float: left;
+}
+
+.tabela p {
+    font-size: 20px;
+}
+
+.tabela ul {
+    list-style: none;
+    padding: 0;
+}
+
+.tabela li {
+    font-size: 20px;
+}
+
+.tabela h2 {
+    font-size: 30px;
+}
+
+.clear {
+    clear: both;
 }
