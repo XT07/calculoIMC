@@ -15,10 +15,6 @@ function meuEscopo() {
         let altura = form.querySelector("#altura").value;
         const calculo = peso/(altura ** 2);
 
-        function limparInput() {
-            peso.innerHTML = "";
-        }
-
         if(peso == "" || altura == ""){
             result.innerHTML = "";
             const err = criarP()
