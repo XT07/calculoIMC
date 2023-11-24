@@ -131,10 +131,6 @@ body {
     width: 38%;
 }
 
-.tabela p {
-    font-size: 20px;
-}
-
 .tabela ul {
     list-style: none;
     padding: 0;
@@ -165,4 +161,98 @@ body {
     background-color: black;
     color: whitesmoke;
     box-shadow: 5px 5px 10px black;
+}
+
+@media(max-width: 990px) {
+    .container {
+        width: 90%;
+    }
+
+    .container h1 {
+        font-size: 70px;
+    }
+
+    .container input {
+        width: 600px;
+        height: 50px;
+        font-size: 50px;
+    }
+
+    .container label {
+        font-size: 50px;
+    }
+
+    .btn {
+        width: 500px;
+        height: 60px;
+        font-size: 40px;
+    }
+
+    .cor-g {
+        width: 550px;
+        height: 45px;
+        font-size: 40px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .cor-r {
+        width: 550px;
+        height: 45px;
+        font-size: 40px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .calculo-baixo {
+        width: 560px;
+        height: 70px;
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .calculo-medio {
+        width: 560px;
+        height: 70px;
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .calculo-acima {
+        width: 560px;
+        height: 70px;
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .calculo-grau1 {
+        width: 560px;
+        height: 70px;
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .calculo-grau2 {
+        width: 560px;
+        height: 70px;
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .calculo-grau3 {
+        width: 560px;
+        height: 70px;
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .tabela {
+        width: 80%;
+    }
+
+    .tabela h2 {
+        font-size: 60px;
+    }
+
+    .tabela li {
+        font-size: 40px;
+    }
 }
