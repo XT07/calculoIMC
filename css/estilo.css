@@ -168,6 +168,10 @@ body {
         width: 90%;
     }
 
+    .container p {
+        font-size: 50px;
+    }
+
     .container h1 {
         font-size: 70px;
     }
